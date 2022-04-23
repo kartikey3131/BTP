@@ -1,0 +1,8 @@
+
+{
+"search_query" : "coronavirus OR covid lang:en",
+"project_directory" : "C:\\Users\\Kartikeya gupta\\OneDrive\\Desktop\\BTP\\Twitter_Sentiment_Analysis-master",
+"raw_data_folder" : "C:\\Users\\Kartikeya gupta\\OneDrive\\Desktop\\BTP\\Twitter_Sentiment_Analysis-master\\output_files\\raw_data",
+"geolocation_data_folder" : "C:\\Users\\Kartikeya gupta\\OneDrive\\Desktop\\BTP\\Twitter_Sentiment_Analysis-master\\output_files\\geolocation_data",
+"keys" : "D:\\GitHub\\Projects\\Twitter_Project\\Twitter_Topic_Modelling\\twitter_keys.yaml"
+}
